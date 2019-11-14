@@ -1,2 +1,1 @@
-# -linux-command-cheatsheet
-linux commands 
+# linux commands and Installation scripts 
